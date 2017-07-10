@@ -1,0 +1,5 @@
+com\example\demo\CustomerRepository.class
+com\example\demo\Application.class
+com\example\demo\RestController.class
+com\example\demo\Customer.class
+com\example\demo\Item.class
